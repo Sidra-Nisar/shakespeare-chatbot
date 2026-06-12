@@ -160,7 +160,7 @@ Shakespeare-Chatbot/
 
 ### Chatbot Interface
 
-![Chatbot Interface](screenshots/Shakespeare chatbot home.png)
+![Chatbot Interface](screenshots/Shakespearechatbothome.png)
 
 ### Example Search Result
 
@@ -171,7 +171,7 @@ Shakespeare-Chatbot/
 
 A demonstration of the chatbot is available below:
 
-[Watch the Shakespeare Chatbot Demo](Demo/ Chatbot demo)
+[Watch the Shakespeare Chatbot Demo](Demo/Shakespearechatbothome.png)
 
 ## Example Use Case
 
@@ -207,6 +207,10 @@ FAISS is used to store and search quotation embeddings efficiently.
 The quotation embeddings are generated before the application runs and saved in the `shakespeare_index.faiss` file. When a user submits a query, only the query needs to be embedded. FAISS then searches the existing index and returns the nearest quotation vectors.
 
 This design improves response speed because the entire dataset does not need to be processed again for every search.
+
+The index file is not included in this repository because of its size. It is
+generated locally from the processed quotation dataset using the indexing
+script included in the project.
 
 ## Role of the Pickle Dataset
 
@@ -300,11 +304,11 @@ It demonstrates my understanding of semantic search, text embeddings, FAISS vect
 
 ## Author
 
-**Kamil Mahnoor**
+**Sidra Nisar**
 
-* GitHub: [YOUR NAME](https://github.com/YOUR-GITHUB-USERNAME)
-* Portfolio: [View My Portfolio](YOUR-PORTFOLIO-LINK)
-* LinkedIn: [Connect on LinkedIn](YOUR-LINKEDIN-LINK)
+* GitHub: [YOUR NAME](https://github.com/Sidra-Nisar)
+* Portfolio: [View My Portfolio](www.linkedin.com/in/sidranisarfarrukh07)
+* LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/sidranisarfarrukh07)
 
 ## Disclaimer
 
