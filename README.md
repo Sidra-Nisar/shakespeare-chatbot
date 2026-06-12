@@ -171,7 +171,7 @@ Shakespeare-Chatbot/
 
 A demonstration of the chatbot is available below:
 
-[Watch the Shakespeare Chatbot Demo](Demo/Shakespearechatbothome.png)
+[Watch the Shakespeare Chatbot Demo](Demo/Chatbot-demo.mp4 )
 
 ## Example Use Case
 
@@ -306,7 +306,7 @@ It demonstrates my understanding of semantic search, text embeddings, FAISS vect
 
 **Sidra Nisar**
 
-* GitHub: [YOUR NAME](https://github.com/Sidra-Nisar)
+* GitHub: [Sidra Nisar](https://github.com/Sidra-Nisar)
 * Portfolio: [View My Portfolio](www.linkedin.com/in/sidranisarfarrukh07)
 * LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/sidranisarfarrukh07)
 
