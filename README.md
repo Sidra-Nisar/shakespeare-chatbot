@@ -164,14 +164,14 @@ Shakespeare-Chatbot/
 
 ### Example Search Result
 
-![Chatbot Response](screenshots/Shakespeare chatbot results.png)
+![Chatbot Response](screenshots/ShakespeareChatbotResults.png)
 
 
 ## Demo Video
 
 A demonstration of the chatbot is available below:
 
-[Watch the Shakespeare Chatbot Demo](YOUR-DEMO-VIDEO-LINK)
+[Watch the Shakespeare Chatbot Demo](Demo/ Chatbot demo)
 
 ## Example Use Case
 
